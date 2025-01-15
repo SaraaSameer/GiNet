@@ -8,7 +8,7 @@ The data utilized in this project comes from the following source and is publicl
 [Panasonic 18650PF Li-ion Battery Data](https://data.mendeley.com/datasets/wykht8y7tg/1)
 
 ## Requirements
-- Python 3.12.5
+- Python == 3.12.5
 - matplotlib == 3.9.2
 - numpy == 1.26.4
 - pandas == 2.2.2
@@ -22,3 +22,6 @@ pip install -r requirements.txt
 
 ## Model Overview
 ![img/ginet250106-cropped.pdf](img/ginet250106-cropped_page-0001.jpg)
+
+## Acknowledgement
+This work was supported in part by SIT’s Ignition Grant (STEM), A*STAR under its MTC Programmatic, MTC Individual Research Grants (IRG), and the National Research Foundation, Singapore and Infocomm Media Development Authority under its Future Communications Research & Development Programme.
