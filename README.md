@@ -8,4 +8,4 @@ The data utilized in this project comes from the following source and is publicl
 [Panasonic 18650PF Li-ion Battery Data](https://data.mendeley.com/datasets/wykht8y7tg/1)
 
 ## Model Overview
-![image-20230803214848151](img/image-20230803214848151.png)
+![img/ginet250106-cropped.pdf](img/ginet250106-cropped.pdf)
