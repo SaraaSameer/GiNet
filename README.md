@@ -1,5 +1,5 @@
 # GiNet: Integrating Sequential and Context-Aware Learning for Battery Capacity Prediction
-<div align="center">
+
 
 ## Introduction
 This is the official implementation of the following paper: [GINET: Integrating Sequential and Context-Aware Learning for Battery Capacity Prediction](https://arxiv.org/pdf/2501.04997). We propose GINET, a gated recurrent units enhanced Informer network, for predicting battery’s capacity. The novelty and competitiveness of GINET lies in its capability of capturing sequential and contextual information from raw battery data and reflecting the battery’s complex behaviors with both temporal dynamics and long-term dependencies.
