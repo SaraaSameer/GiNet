@@ -1,0 +1,5 @@
+NumPy version == 1.26.4
+Pandas version == 2.2.2
+PyTorch version == 2.5.1+cu124
+Matplotlib version == 3.9.2
+Scikit-learn version == 1.5.2
