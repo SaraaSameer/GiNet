@@ -7,5 +7,18 @@ This is the official implementation of the following paper: [GINET: Integrating 
 The data utilized in this project comes from the following source and is publicly available: 
 [Panasonic 18650PF Li-ion Battery Data](https://data.mendeley.com/datasets/wykht8y7tg/1)
 
+## Requirements
+- Python 3.12.5
+- matplotlib == 3.9.2
+- numpy == 1.26.4
+- pandas == 2.2.2
+- scikit_learn == 1.5.2
+- torch == 2.5.1+cu124
+
+Dependencies can be installed using the following command:
+```bash
+pip install -r requirements.txt
+```
+
 ## Model Overview
 ![img/ginet250106-cropped.pdf](img/ginet250106-cropped_page-0001.jpg)
